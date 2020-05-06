@@ -1,7 +1,6 @@
 # Coursera_Courses
-(Completed)
 
-## SPECIALIZATION
+## SPECIALIZATIONS
 
 ### 1. Introduction to Discrete Mathematics for Computer Science
   - Mathematical Thinking in Computer Science
@@ -13,3 +12,6 @@
 ### 2. Data Structures and Algorithm
   - Algorithmic toolbox
   - Data Structures
+
+## Stand Alone Courses
+  - Java Programming:Solving Problems with Software
