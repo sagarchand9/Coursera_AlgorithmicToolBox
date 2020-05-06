@@ -11,9 +11,9 @@
   
 ### 2. Data Structures and Algorithm
   - Algorithmic toolbox
-  - Data Structures
-  
+  - Data Structures <br/><br/>
 
+  
 ## Stand Alone Courses
   - Usable Security
   - Java Programming:Solving Problems with Software
