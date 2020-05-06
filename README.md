@@ -14,4 +14,5 @@
   - Data Structures
 
 ## Stand Alone Courses
+  - Usable Security
   - Java Programming:Solving Problems with Software
