@@ -1,4 +1,4 @@
-# Coursera_Courses
+# Coursera Courses
 
 ## SPECIALIZATIONS
 
@@ -12,6 +12,7 @@
 ### 2. Data Structures and Algorithm
   - Algorithmic toolbox
   - Data Structures
+  
 
 ## Stand Alone Courses
   - Usable Security
