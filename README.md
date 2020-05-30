@@ -9,7 +9,7 @@
   - Number Theory and Cryptography
   - Delivery Problem
   
-### 2. Data Structures and Algorithm
+### 2. Data Structures and Algorithm (2/5)
   - Algorithmic toolbox
   - Data Structures <br/><br/>
 
@@ -17,3 +17,4 @@
 ## Stand Alone Courses
   - Usable Security
   - Java Programming:Solving Problems with Software
+  - Neural Networks and Deep Learning
