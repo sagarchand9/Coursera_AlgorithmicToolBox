@@ -15,7 +15,7 @@
 
   
 ## Stand Alone Courses
-  - Image and video processing: From Mars to Hollywood with a stop at the hospital
+  - [Image and video processing: From Mars to Hollywood with a stop at the hospital](Image_and_video_processing: From_Mars_to_Hollywood_with_a_stop_at_the_hospital)
   - [Usable Security](Usable_Security)
-  - Java Programming:Solving Problems with Software
-  - Neural Networks and Deep Learning
+  - [Java Programming:Solving Problems with Software](Java_Programming:Solving_Problems_with_Software)
+  - [Neural Networks and Deep Learning](Neural_Networks_and_Deep_Learning)
