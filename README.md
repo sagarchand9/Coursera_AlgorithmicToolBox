@@ -3,15 +3,16 @@
 ## SPECIALIZATIONS
 
 ### 1. Introduction to Discrete Mathematics for Computer Science
-  - Mathematical Thinking in Computer Science
-  - Combinatorics and Probability
-  - Introduction to Graph Theory
-  - Number Theory and Cryptography
-  - Delivery Problem
+  - [Mathematical Thinking in Computer Science](Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/Mathematical_Thinking_in_Computer_Science)
+  - [Combinatorics and Probability](Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/Combinatorics_and_Probability)
+  - [Introduction to Graph Theory](Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/Introduction_to_Graph_Theory)
+  - [Number Theory and Cryptography](Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/Number_Theory_and_Cryptography)
+  - [Delivery Problem](Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/Delivery_problem)
   
 ### 2. Data Structures and Algorithm (2/5)
-  - Algorithmic toolbox
-  - Data Structures <br/><br/>
+  - [Algorithmic toolbox](Data_Structures_and_Algorithms_Specialization/Algorithmic_Toolbox)
+  - [Data Structures](Data_Structures_and_Algorithms_Specialization/Data_Structures) 
+  <br/><br/>
 
   
 ## Stand Alone Courses
