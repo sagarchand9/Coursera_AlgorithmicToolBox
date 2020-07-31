@@ -12,6 +12,7 @@
 ### 2. Data Structures and Algorithm (2/5)
   - [Algorithmic toolbox](Data_Structures_and_Algorithms_Specialization/Algorithmic_Toolbox)
   - [Data Structures](Data_Structures_and_Algorithms_Specialization/Data_Structures) 
+  - [Algorithms on Graphs](Data_Structures_and_Algorithms_Specialization/Algorithms_on_Graphs) 
   <br/><br/>
 
   
