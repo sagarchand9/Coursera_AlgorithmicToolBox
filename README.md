@@ -9,7 +9,7 @@
   - [Number Theory and Cryptography](Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/Number_Theory_and_Cryptography)
   - [Delivery Problem](Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/Delivery_problem)
   
-### 2. Data Structures and Algorithm (3/5)
+### 2. Data Structures and Algorithm (3/6)
   - [Algorithmic toolbox](Data_Structures_and_Algorithms_Specialization/Algorithmic_Toolbox)
   - [Data Structures](Data_Structures_and_Algorithms_Specialization/Data_Structures) 
   - [Algorithms on Graphs](Data_Structures_and_Algorithms_Specialization/Algorithms_on_Graphs) 
