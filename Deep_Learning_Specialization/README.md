@@ -5,4 +5,4 @@ We strongly encourage students to form study groups, and discuss the lecture vid
 You are also not allowed to post your code publicly on <b> github </b>.
 
 
-So can't upload any code for this course :(
+So can't upload any code for this specialization :(
