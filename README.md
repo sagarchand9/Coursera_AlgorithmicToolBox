@@ -9,10 +9,14 @@
   - [Number Theory and Cryptography](Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/Number_Theory_and_Cryptography)
   - [Delivery Problem](Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/Delivery_problem)
   
-### 2. Data Structures and Algorithm (3/5)
+### 2. Data Structures and Algorithm (3/6)
   - [Algorithmic toolbox](Data_Structures_and_Algorithms_Specialization/Algorithmic_Toolbox)
   - [Data Structures](Data_Structures_and_Algorithms_Specialization/Data_Structures) 
   - [Algorithms on Graphs](Data_Structures_and_Algorithms_Specialization/Algorithms_on_Graphs) 
+  
+### 3. Deep Learning Specialization (2/5)
+  - [Neural Networks and Deep Learning](Deep_Learning_Specialization/Neural_Networks_and_Deep_Learning)
+  - [Improving_Deep_Neural_Networks: Hyperparameter_tuning,_Regularization_and_Optimization](https://github.com/sagarchand9/Coursera_Courses/tree/master/Deep_Learning_Specialization/Improving_Deep_Neural_Networks:%20Hyperparameter_tuning%2C_Regularization_and_Optimization) 
   <br/><br/>
 
   
@@ -20,4 +24,3 @@
   - [Image and video processing: From Mars to Hollywood with a stop at the hospital](https://github.com/sagarchand9/Coursera_Courses/tree/master/Image_and_video_processing:%20From_Mars_to_Hollywood_with_a_stop_at_the_hospital)
   - [Usable Security](Usable_Security)
   - [Java Programming:Solving Problems with Software](https://github.com/sagarchand9/Coursera_Courses/tree/master/Java_Programming:Solving_Problems_with_Software)
-  - [Neural Networks and Deep Learning](Neural_Networks_and_Deep_Learning)
