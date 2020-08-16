@@ -27,3 +27,7 @@
   - [Image and video processing: From Mars to Hollywood with a stop at the hospital](https://github.com/sagarchand9/Coursera_Courses/tree/master/Image_and_video_processing:%20From_Mars_to_Hollywood_with_a_stop_at_the_hospital)
   - [Usable Security](Usable_Security)
   - [Java Programming:Solving Problems with Software](https://github.com/sagarchand9/Coursera_Courses/tree/master/Java_Programming:Solving_Problems_with_Software)
+  
+<br/><br/>
+
+[![HitCount](http://hits.dwyl.com/sagarchand9/Coursera_Courses.svg)](http://hits.dwyl.com/sagarchand9/Coursera_Courses)
