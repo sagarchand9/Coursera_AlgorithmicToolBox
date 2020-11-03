@@ -10,12 +10,13 @@
   - [Delivery Problem](Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/Delivery_problem)
   
 
-### 2. Deep Learning Specialization (4/5)
+### 2. Deep Learning Specialization
   - [Neural Networks and Deep Learning](Deep_Learning_Specialization/Neural_Networks_and_Deep_Learning)
   - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/sagarchand9/Coursera_Courses/tree/master/Deep_Learning_Specialization/Improving_Deep_Neural_Networks:%20Hyperparameter_tuning%2C_Regularization_and_Optimization) 
   - [Structuring Machine Learning Projects](Deep_Learning_Specialization/Structuring_Machine_Learning_Projects)
   - [Convolutional Neural Networks](Deep_Learning_Specialization/Convolution_Neural_Networks)
-  
+  - [Sequence Models](Deep_Learning_Specialization/Sequence_Models)
+
 ### 3. Data Structures and Algorithm (3/6)
   - [Algorithmic toolbox](Data_Structures_and_Algorithms_Specialization/Algorithmic_Toolbox)
   - [Data Structures](Data_Structures_and_Algorithms_Specialization/Data_Structures) 
